@@ -1,0 +1,954 @@
+[
+ {
+  "w": "He",
+  "line": 0,
+  "who": "baba",
+  "s": 0.25,
+  "e": 0.369
+ },
+ {
+  "w": "sold",
+  "line": 0,
+  "who": "baba",
+  "s": 0.389,
+  "e": 0.587
+ },
+ {
+  "w": "everything...",
+  "line": 0,
+  "who": "baba",
+  "s": 0.622,
+  "e": 1.214
+ },
+ {
+  "w": "because",
+  "line": 0,
+  "who": "baba",
+  "s": 1.319,
+  "e": 1.635
+ },
+ {
+  "w": "of",
+  "line": 0,
+  "who": "baba",
+  "s": 1.691,
+  "e": 1.809
+ },
+ {
+  "w": "a",
+  "line": 0,
+  "who": "baba",
+  "s": 1.83,
+  "e": 1.909
+ },
+ {
+  "w": "dream?",
+  "line": 0,
+  "who": "baba",
+  "s": 1.923,
+  "e": 2.318
+ },
+ {
+  "w": "Not",
+  "line": 1,
+  "who": "noor",
+  "s": 2.638,
+  "e": 2.788
+ },
+ {
+  "w": "just",
+  "line": 1,
+  "who": "noor",
+  "s": 2.814,
+  "e": 3.002
+ },
+ {
+  "w": "any",
+  "line": 1,
+  "who": "noor",
+  "s": 3.035,
+  "e": 3.185
+ },
+ {
+  "w": "dream,",
+  "line": 1,
+  "who": "noor",
+  "s": 3.211,
+  "e": 3.586
+ },
+ {
+  "w": "Baba.",
+  "line": 1,
+  "who": "noor",
+  "s": 3.652,
+  "e": 3.99
+ },
+ {
+  "w": "Look!",
+  "line": 1,
+  "who": "noor",
+  "s": 4.049,
+  "e": 4.386
+ },
+ {
+  "w": "Santiago",
+  "line": 2,
+  "who": "narrator",
+  "s": 5.146,
+  "e": 5.573
+ },
+ {
+  "w": "is",
+  "line": 2,
+  "who": "narrator",
+  "s": 5.649,
+  "e": 5.791
+ },
+ {
+  "w": "a",
+  "line": 2,
+  "who": "narrator",
+  "s": 5.816,
+  "e": 5.911
+ },
+ {
+  "w": "young",
+  "line": 2,
+  "who": "narrator",
+  "s": 5.928,
+  "e": 6.213
+ },
+ {
+  "w": "shepherd,",
+  "line": 2,
+  "who": "narrator",
+  "s": 6.263,
+  "e": 6.88
+ },
+ {
+  "w": "wandering",
+  "line": 2,
+  "who": "narrator",
+  "s": 6.989,
+  "e": 7.463
+ },
+ {
+  "w": "the",
+  "line": 2,
+  "who": "narrator",
+  "s": 7.547,
+  "e": 7.737
+ },
+ {
+  "w": "hills",
+  "line": 2,
+  "who": "narrator",
+  "s": 7.77,
+  "e": 8.055
+ },
+ {
+  "w": "of",
+  "line": 2,
+  "who": "narrator",
+  "s": 8.105,
+  "e": 8.248
+ },
+ {
+  "w": "Spain",
+  "line": 2,
+  "who": "narrator",
+  "s": 8.273,
+  "e": 8.558
+ },
+ {
+  "w": "with",
+  "line": 2,
+  "who": "narrator",
+  "s": 8.608,
+  "e": 8.845
+ },
+ {
+  "w": "his",
+  "line": 2,
+  "who": "narrator",
+  "s": 8.887,
+  "e": 9.077
+ },
+ {
+  "w": "sheep.",
+  "line": 2,
+  "who": "narrator",
+  "s": 9.111,
+  "e": 9.585
+ },
+ {
+  "w": "One",
+  "line": 3,
+  "who": "narrator",
+  "s": 9.989,
+  "e": 10.165
+ },
+ {
+  "w": "night,",
+  "line": 3,
+  "who": "narrator",
+  "s": 10.196,
+  "e": 10.636
+ },
+ {
+  "w": "he",
+  "line": 3,
+  "who": "narrator",
+  "s": 10.714,
+  "e": 10.846
+ },
+ {
+  "w": "sleeps",
+  "line": 3,
+  "who": "narrator",
+  "s": 10.869,
+  "e": 11.177
+ },
+ {
+  "w": "in",
+  "line": 3,
+  "who": "narrator",
+  "s": 11.232,
+  "e": 11.364
+ },
+ {
+  "w": "an",
+  "line": 3,
+  "who": "narrator",
+  "s": 11.387,
+  "e": 11.519
+ },
+ {
+  "w": "old",
+  "line": 3,
+  "who": "narrator",
+  "s": 11.543,
+  "e": 11.719
+ },
+ {
+  "w": "ruined",
+  "line": 3,
+  "who": "narrator",
+  "s": 11.75,
+  "e": 12.058
+ },
+ {
+  "w": "church,",
+  "line": 3,
+  "who": "narrator",
+  "s": 12.112,
+  "e": 12.596
+ },
+ {
+  "w": "where",
+  "line": 3,
+  "who": "narrator",
+  "s": 12.682,
+  "e": 12.946
+ },
+ {
+  "w": "a",
+  "line": 3,
+  "who": "narrator",
+  "s": 12.993,
+  "e": 13.081
+ },
+ {
+  "w": "tree",
+  "line": 3,
+  "who": "narrator",
+  "s": 13.096,
+  "e": 13.316
+ },
+ {
+  "w": "grows",
+  "line": 3,
+  "who": "narrator",
+  "s": 13.355,
+  "e": 13.619
+ },
+ {
+  "w": "right",
+  "line": 3,
+  "who": "narrator",
+  "s": 13.666,
+  "e": 13.93
+ },
+ {
+  "w": "through",
+  "line": 3,
+  "who": "narrator",
+  "s": 13.976,
+  "e": 14.329
+ },
+ {
+  "w": "the",
+  "line": 3,
+  "who": "narrator",
+  "s": 14.391,
+  "e": 14.567
+ },
+ {
+  "w": "roof.",
+  "line": 3,
+  "who": "narrator",
+  "s": 14.598,
+  "e": 14.994
+ },
+ {
+  "w": "And",
+  "line": 4,
+  "who": "narrator",
+  "s": 15.384,
+  "e": 15.565
+ },
+ {
+  "w": "he",
+  "line": 4,
+  "who": "narrator",
+  "s": 15.597,
+  "e": 15.733
+ },
+ {
+  "w": "has",
+  "line": 4,
+  "who": "narrator",
+  "s": 15.757,
+  "e": 15.938
+ },
+ {
+  "w": "the",
+  "line": 4,
+  "who": "narrator",
+  "s": 15.97,
+  "e": 16.151
+ },
+ {
+  "w": "same",
+  "line": 4,
+  "who": "narrator",
+  "s": 16.183,
+  "e": 16.409
+ },
+ {
+  "w": "dream",
+  "line": 4,
+  "who": "narrator",
+  "s": 16.449,
+  "e": 16.721
+ },
+ {
+  "w": "again.",
+  "line": 4,
+  "who": "narrator",
+  "s": 16.769,
+  "e": 17.221
+ },
+ {
+  "w": "A",
+  "line": 4,
+  "who": "narrator",
+  "s": 17.301,
+  "e": 17.392
+ },
+ {
+  "w": "child",
+  "line": 4,
+  "who": "narrator",
+  "s": 17.408,
+  "e": 17.679
+ },
+ {
+  "w": "leads",
+  "line": 4,
+  "who": "narrator",
+  "s": 17.727,
+  "e": 17.999
+ },
+ {
+  "w": "him",
+  "line": 4,
+  "who": "narrator",
+  "s": 18.047,
+  "e": 18.228
+ },
+ {
+  "w": "to",
+  "line": 4,
+  "who": "narrator",
+  "s": 18.26,
+  "e": 18.396
+ },
+ {
+  "w": "the",
+  "line": 4,
+  "who": "narrator",
+  "s": 18.42,
+  "e": 18.601
+ },
+ {
+  "w": "pyramids",
+  "line": 4,
+  "who": "narrator",
+  "s": 18.633,
+  "e": 19.04
+ },
+ {
+  "w": "of",
+  "line": 4,
+  "who": "narrator",
+  "s": 19.112,
+  "e": 19.248
+ },
+ {
+  "w": "Egypt,",
+  "line": 4,
+  "who": "narrator",
+  "s": 19.272,
+  "e": 19.724
+ },
+ {
+  "w": "and",
+  "line": 4,
+  "who": "narrator",
+  "s": 19.804,
+  "e": 19.985
+ },
+ {
+  "w": "tells",
+  "line": 4,
+  "who": "narrator",
+  "s": 20.017,
+  "e": 20.289
+ },
+ {
+  "w": "him",
+  "line": 4,
+  "who": "narrator",
+  "s": 20.337,
+  "e": 20.518
+ },
+ {
+  "w": "a",
+  "line": 4,
+  "who": "narrator",
+  "s": 20.55,
+  "e": 20.64
+ },
+ {
+  "w": "treasure",
+  "line": 4,
+  "who": "narrator",
+  "s": 20.656,
+  "e": 21.064
+ },
+ {
+  "w": "is",
+  "line": 4,
+  "who": "narrator",
+  "s": 21.136,
+  "e": 21.271
+ },
+ {
+  "w": "waiting",
+  "line": 4,
+  "who": "narrator",
+  "s": 21.295,
+  "e": 21.658
+ },
+ {
+  "w": "there.",
+  "line": 4,
+  "who": "narrator",
+  "s": 21.721,
+  "e": 22.174
+ },
+ {
+  "w": "Then,",
+  "line": 5,
+  "who": "narrator",
+  "s": 22.574,
+  "e": 22.999
+ },
+ {
+  "w": "a",
+  "line": 5,
+  "who": "narrator",
+  "s": 23.074,
+  "e": 23.169
+ },
+ {
+  "w": "mysterious",
+  "line": 5,
+  "who": "narrator",
+  "s": 23.186,
+  "e": 23.705
+ },
+ {
+  "w": "old",
+  "line": 5,
+  "who": "narrator",
+  "s": 23.797,
+  "e": 23.986
+ },
+ {
+  "w": "king",
+  "line": 5,
+  "who": "narrator",
+  "s": 24.019,
+  "e": 24.256
+ },
+ {
+  "w": "tells",
+  "line": 5,
+  "who": "narrator",
+  "s": 24.297,
+  "e": 24.581
+ },
+ {
+  "w": "him",
+  "line": 5,
+  "who": "narrator",
+  "s": 24.631,
+  "e": 24.82
+ },
+ {
+  "w": "that",
+  "line": 5,
+  "who": "narrator",
+  "s": 24.853,
+  "e": 25.09
+ },
+ {
+  "w": "everyone",
+  "line": 5,
+  "who": "narrator",
+  "s": 25.131,
+  "e": 25.557
+ },
+ {
+  "w": "has",
+  "line": 5,
+  "who": "narrator",
+  "s": 25.632,
+  "e": 25.821
+ },
+ {
+  "w": "a",
+  "line": 5,
+  "who": "narrator",
+  "s": 25.854,
+  "e": 25.949
+ },
+ {
+  "w": "Personal",
+  "line": 5,
+  "who": "narrator",
+  "s": 25.965,
+  "e": 26.39
+ },
+ {
+  "w": "Legend,",
+  "line": 5,
+  "who": "narrator",
+  "s": 26.466,
+  "e": 26.985
+ },
+ {
+  "w": "a",
+  "line": 5,
+  "who": "narrator",
+  "s": 27.077,
+  "e": 27.172
+ },
+ {
+  "w": "dream",
+  "line": 5,
+  "who": "narrator",
+  "s": 27.188,
+  "e": 27.472
+ },
+ {
+  "w": "they",
+  "line": 5,
+  "who": "narrator",
+  "s": 27.522,
+  "e": 27.758
+ },
+ {
+  "w": "are",
+  "line": 5,
+  "who": "narrator",
+  "s": 27.8,
+  "e": 27.989
+ },
+ {
+  "w": "meant",
+  "line": 5,
+  "who": "narrator",
+  "s": 28.022,
+  "e": 28.306
+ },
+ {
+  "w": "to",
+  "line": 5,
+  "who": "narrator",
+  "s": 28.356,
+  "e": 28.497
+ },
+ {
+  "w": "follow.",
+  "line": 5,
+  "who": "narrator",
+  "s": 28.522,
+  "e": 29.042
+ },
+ {
+  "w": "So",
+  "line": 6,
+  "who": "narrator",
+  "s": 29.454,
+  "e": 29.63
+ },
+ {
+  "w": "Santiago",
+  "line": 6,
+  "who": "narrator",
+  "s": 29.661,
+  "e": 30.188
+ },
+ {
+  "w": "sells",
+  "line": 6,
+  "who": "narrator",
+  "s": 30.281,
+  "e": 30.632
+ },
+ {
+  "w": "his",
+  "line": 6,
+  "who": "narrator",
+  "s": 30.694,
+  "e": 30.929
+ },
+ {
+  "w": "sheep,",
+  "line": 6,
+  "who": "narrator",
+  "s": 30.97,
+  "e": 31.556
+ },
+ {
+  "w": "and",
+  "line": 6,
+  "who": "narrator",
+  "s": 31.659,
+  "e": 31.893
+ },
+ {
+  "w": "sails",
+  "line": 6,
+  "who": "narrator",
+  "s": 31.935,
+  "e": 32.286
+ },
+ {
+  "w": "for",
+  "line": 6,
+  "who": "narrator",
+  "s": 32.348,
+  "e": 32.583
+ },
+ {
+  "w": "Africa.",
+  "line": 6,
+  "who": "narrator",
+  "s": 32.624,
+  "e": 33.268
+ },
+ {
+  "w": "A",
+  "line": 7,
+  "who": "baba",
+  "s": 34.182,
+  "e": 34.269
+ },
+ {
+  "w": "stranger",
+  "line": 7,
+  "who": "baba",
+  "s": 34.285,
+  "e": 34.677
+ },
+ {
+  "w": "tells",
+  "line": 7,
+  "who": "baba",
+  "s": 34.747,
+  "e": 35.008
+ },
+ {
+  "w": "him",
+  "line": 7,
+  "who": "baba",
+  "s": 35.055,
+  "e": 35.229
+ },
+ {
+  "w": "to",
+  "line": 7,
+  "who": "baba",
+  "s": 35.26,
+  "e": 35.391
+ },
+ {
+  "w": "sell",
+  "line": 7,
+  "who": "baba",
+  "s": 35.414,
+  "e": 35.632
+ },
+ {
+  "w": "his",
+  "line": 7,
+  "who": "baba",
+  "s": 35.671,
+  "e": 35.845
+ },
+ {
+  "w": "sheep,",
+  "line": 7,
+  "who": "baba",
+  "s": 35.876,
+  "e": 36.312
+ },
+ {
+  "w": "and",
+  "line": 7,
+  "who": "baba",
+  "s": 36.389,
+  "e": 36.564
+ },
+ {
+  "w": "he",
+  "line": 7,
+  "who": "baba",
+  "s": 36.595,
+  "e": 36.726
+ },
+ {
+  "w": "just",
+  "line": 7,
+  "who": "baba",
+  "s": 36.749,
+  "e": 36.967
+ },
+ {
+  "w": "does",
+  "line": 7,
+  "who": "baba",
+  "s": 37.005,
+  "e": 37.224
+ },
+ {
+  "w": "it?",
+  "line": 7,
+  "who": "baba",
+  "s": 37.262,
+  "e": 37.567
+ },
+ {
+  "w": "That's",
+  "line": 7,
+  "who": "baba",
+  "s": 37.621,
+  "e": 37.883
+ },
+ {
+  "w": "a",
+  "line": 7,
+  "who": "baba",
+  "s": 37.929,
+  "e": 38.017
+ },
+ {
+  "w": "scam,",
+  "line": 7,
+  "who": "baba",
+  "s": 38.032,
+  "e": 38.425
+ },
+ {
+  "w": "beta.",
+  "line": 7,
+  "who": "baba",
+  "s": 38.494,
+  "e": 38.887
+ },
+ {
+  "w": "Or",
+  "line": 8,
+  "who": "noor",
+  "s": 39.276,
+  "e": 39.395
+ },
+ {
+  "w": "it's",
+  "line": 8,
+  "who": "noor",
+  "s": 39.416,
+  "e": 39.575
+ },
+ {
+  "w": "the",
+  "line": 8,
+  "who": "noor",
+  "s": 39.603,
+  "e": 39.762
+ },
+ {
+  "w": "start",
+  "line": 8,
+  "who": "noor",
+  "s": 39.79,
+  "e": 40.029
+ },
+ {
+  "w": "of",
+  "line": 8,
+  "who": "noor",
+  "s": 40.071,
+  "e": 40.19
+ },
+ {
+  "w": "the",
+  "line": 8,
+  "who": "noor",
+  "s": 40.211,
+  "e": 40.37
+ },
+ {
+  "w": "best",
+  "line": 8,
+  "who": "noor",
+  "s": 40.398,
+  "e": 40.597
+ },
+ {
+  "w": "adventure",
+  "line": 8,
+  "who": "noor",
+  "s": 40.632,
+  "e": 41.029
+ },
+ {
+  "w": "ever!",
+  "line": 8,
+  "who": "noor",
+  "s": 41.099,
+  "e": 41.457
+ },
+ {
+  "w": "Next",
+  "line": 9,
+  "who": "baba",
+  "s": 41.84,
+  "e": 42.04
+ },
+ {
+  "w": "time,",
+  "line": 9,
+  "who": "baba",
+  "s": 42.075,
+  "e": 42.436
+ },
+ {
+  "w": "Tangier.",
+  "line": 9,
+  "who": "baba",
+  "s": 42.499,
+  "e": 42.98
+ },
+ {
+  "w": "I",
+  "line": 9,
+  "who": "baba",
+  "s": 43.065,
+  "e": 43.145
+ },
+ {
+  "w": "have",
+  "line": 9,
+  "who": "baba",
+  "s": 43.159,
+  "e": 43.359
+ },
+ {
+  "w": "a",
+  "line": 9,
+  "who": "baba",
+  "s": 43.394,
+  "e": 43.474
+ },
+ {
+  "w": "bad",
+  "line": 9,
+  "who": "baba",
+  "s": 43.488,
+  "e": 43.649
+ },
+ {
+  "w": "feeling",
+  "line": 9,
+  "who": "baba",
+  "s": 43.677,
+  "e": 43.997
+ },
+ {
+  "w": "about",
+  "line": 9,
+  "who": "baba",
+  "s": 44.054,
+  "e": 44.294
+ },
+ {
+  "w": "this.",
+  "line": 9,
+  "who": "baba",
+  "s": 44.336,
+  "e": 44.696
+ },
+ {
+  "w": "You",
+  "line": 10,
+  "who": "noor",
+  "s": 45.08,
+  "e": 45.221
+ },
+ {
+  "w": "always",
+  "line": 10,
+  "who": "noor",
+  "s": 45.246,
+  "e": 45.492
+ },
+ {
+  "w": "do,",
+  "line": 10,
+  "who": "noor",
+  "s": 45.536,
+  "e": 45.782
+ },
+ {
+  "w": "Baba!",
+  "line": 10,
+  "who": "noor",
+  "s": 45.826,
+  "e": 46.143
+ }
+]

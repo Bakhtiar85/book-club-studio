@@ -1,0 +1,45 @@
+{
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "WebSearch",
+      "WebFetch",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(py:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)",
+      "Bash(git:*)",
+      "Bash(ls:*)",
+      "Bash(dir:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(copy:*)"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(rmdir /s:*)",
+      "Bash(del /s:*)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/tools/status.py\" --brief"
+          }
+        ]
+      }
+    ]
+  }
+}

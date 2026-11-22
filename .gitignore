@@ -1,0 +1,7 @@
+app/node_modules/
+episodes/*/out/
+app/out/
+__pycache__/
+library/*/source.pdf
+library/*/text/
+library/*/full.txt

@@ -1,0 +1,7 @@
+{
+  "kokoro_dir": "~/.book-club/kokoro",
+  "fps": 30,
+  "remotion_gl": null,
+  "browser_executable": null,
+  "render_concurrency": null
+}

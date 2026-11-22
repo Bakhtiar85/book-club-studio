@@ -1,0 +1,181 @@
+{
+ "book": "The Alchemist",
+ "author": "Paulo Coelho",
+ "part": "Part 1: The Dream",
+ "question": "Dream or scam?",
+ "vote": {
+  "noor": "a real dream",
+  "baba": "total scam"
+ },
+ "next": "Next: Part 2 · Tangier",
+ "book_open": {
+  "line": 1,
+  "word": "Look"
+ },
+ "id": "001-alchemist-p1-the-dream",
+ "duration": 46.819,
+ "lines": [
+  {
+   "i": 0,
+   "who": "baba",
+   "text": "He sold everything... because of a dream?",
+   "start": 0.25,
+   "end": 2.388,
+   "fx": [
+    {
+     "on": "dream",
+     "punch": true,
+     "shake": true,
+     "react": "?!"
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "who": "noor",
+   "text": "Not just any dream, Baba. Look!",
+   "start": 2.638,
+   "end": 4.446
+  },
+  {
+   "i": 2,
+   "who": "narrator",
+   "scene": "hills",
+   "text": "Santiago is a young shepherd, wandering the hills of Spain with his sheep.",
+   "start": 5.146,
+   "end": 9.669,
+   "ambience": "day",
+   "sfx": [
+    {
+     "on": "sheep",
+     "sound": "baa"
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "who": "narrator",
+   "scene": "church",
+   "text": "One night, he sleeps in an old ruined church, where a tree grows right through the roof.",
+   "start": 9.989,
+   "end": 15.064,
+   "ambience": "night"
+  },
+  {
+   "i": 4,
+   "who": "narrator",
+   "scene": "dream",
+   "text": "And he has the same dream again. A child leads him to the pyramids of Egypt, and tells him a treasure is waiting there.",
+   "start": 15.384,
+   "end": 22.254,
+   "ambience": "night",
+   "sfx": [
+    {
+     "on": "dream",
+     "sound": "shimmer"
+    },
+    {
+     "on": "treasure",
+     "sound": "chime"
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "who": "narrator",
+   "scene": "king",
+   "text": "Then, a mysterious old king tells him that everyone has a Personal Legend, a dream they are meant to follow.",
+   "start": 22.574,
+   "end": 29.134,
+   "ambience": "town",
+   "sfx": [
+    {
+     "on": "Personal",
+     "sound": "chime"
+    },
+    {
+     "on": "Legend",
+     "sound": "shimmer"
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "who": "narrator",
+   "scene": "sail",
+   "text": "So Santiago sells his sheep, and sails for Africa.",
+   "start": 29.454,
+   "end": 33.382,
+   "ambience": "sea",
+   "sfx": [
+    {
+     "on": "sheep",
+     "sound": "baa"
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "who": "baba",
+   "text": "A stranger tells him to sell his sheep, and he just does it? That's a scam, beta.",
+   "start": 34.182,
+   "end": 38.956,
+   "fx": [
+    {
+     "on": "scam",
+     "punch": true,
+     "shake": true,
+     "react": "!",
+     "react_dur": 1.2
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "who": "noor",
+   "text": "Or it's the start of the best adventure ever!",
+   "start": 39.276,
+   "end": 41.52,
+   "fx": [
+    {
+     "on": "adventure",
+     "punch": true,
+     "react": "stars",
+     "happy": 1.2,
+     "sound": "shimmer"
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "who": "baba",
+   "text": "Next time, Tangier. I have a bad feeling about this.",
+   "start": 41.84,
+   "end": 44.76,
+   "fx": [
+    {
+     "on": "bad",
+     "punch": true,
+     "react": "sweat",
+     "react_dur": 1.6,
+     "sound": "dundun"
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "who": "noor",
+   "text": "You always do, Baba!",
+   "start": 45.08,
+   "end": 46.199,
+   "fx": [
+    {
+     "on": "always",
+     "react": "heart",
+     "react_dur": 2.5,
+     "happy": 9
+    }
+   ]
+  }
+ ]
+}
