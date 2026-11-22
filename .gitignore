@@ -5,3 +5,4 @@ __pycache__/
 library/*/source.pdf
 library/*/text/
 library/*/full.txt
+.claude/settings.local.json
