@@ -20,6 +20,7 @@ Read, in this order:
 | `/book-status` | where we are, what's next, days since last upload |
 | `/next-episode` | writes, voices, animates, renders and logs the next part, with **one** approval stop (the script) |
 | `/render <ep>` | re-render an episode after edits |
+| `/upload-pack <ep>` | everything to fill YouTube Studio's upload form, in form order (alias: `/ep-upload-pre-req`) |
 | `/published <ep> <url>` | marks it uploaded today |
 | `/results <ep> views=.. noor=.. baba=..` | logs results and the vote, updates the scoreboard |
 | `/finale` | the book's last Short: recap, final verdict, season scoreboard, viewers vote on the next book |

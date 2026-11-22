@@ -15,6 +15,7 @@ Needs: Node 20+ (22 LTS recommended), Python 3.10–3.12, ffmpeg. `/setup` tells
 |---|---|
 | `/book-status` | last upload, what's next, open promises |
 | `/next-episode` | Claude writes the next part, **shows you the script once** (say OK or edit), then voices, animates, checks every frame and renders. You get the MP4, a cover frame and a ready-to-paste title, description and hashtags |
+| `/upload-pack 002` | everything to fill YouTube Studio's upload form, in form order — title, description, thumbnail pick, playlist, audience/age settings, tags, visibility (alias: `/ep-upload-pre-req`) |
 | *(upload to YouTube)* | |
 | `/published 002 https://youtube.com/shorts/...` | logs the upload |
 | `/results 002 views=900 noor=40 baba=25` | logs the vote and tells you what to tweak |

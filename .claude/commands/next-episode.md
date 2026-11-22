@@ -25,4 +25,4 @@ Make the next episode of the series. $ARGUMENTS
     - the path of the final mp4 and of cover.jpg
     - the publish pack (title, description, hashtags, pinned comment), ready to copy
     - the **Upload checklist** from `publish.md` (Audience / Age restriction / Altered content disclosure / Comments)
-    - "After uploading, run `/published <ep> <url>`."
+    - "Run `/upload-pack <ep>` when you're ready to upload."
