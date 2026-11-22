@@ -1,13 +1,18 @@
 {
  "book": "the-alchemist",
- "has_pdf": false,
- "pages": null,
+ "has_pdf": true,
+ "pages": 136,
  "last_episode": "001-alchemist-p1-the-dream",
- "covered_to_page": null,
- "next_start_page": null,
- "last_event": "Santiago sells his sheep and sails for Africa",
+ "covered_to_page": 34,
+ "next_start_page": 35,
+ "last_event": "Shepherd's recurring dream, the old king and the Personal Legend, sells his sheep, sails to Africa",
  "next_hint": "He arrives in Tangier, trusts a young stranger and is robbed in the market",
  "history": [
-  {"episode": "001-alchemist-p1-the-dream", "pages": null, "event": "Shepherd, recurring dream in the ruined church, the old king and the Personal Legend, sells sheep, sails to Africa", "date": "2026-11-22"}
+  {
+   "episode": "001-alchemist-p1-the-dream",
+   "pages": "14-34",
+   "event": "Shepherd's recurring dream, the old king and the Personal Legend, sells his sheep, sails to Africa",
+   "date": "2026-11-22"
+  }
  ]
 }

@@ -10,8 +10,8 @@
  "next": "Next: Part 2 · Tangier",
  "source": {
   "book": "the-alchemist",
-  "pages": "",
-  "ends_at": "Santiago sells his sheep and sails for Africa (end of the Andalusia section)"
+  "pages": "14-34",
+  "ends_at": "Santiago sells his flock and sails from Spain toward Africa (end of the Andalusia section)"
  },
  "book_open": {
   "line": 1,
@@ -35,7 +35,7 @@
  "lines": [
   {
    "who": "baba",
-   "text": "He sold everything... because of a dream?",
+   "text": "Would you sell your whole flock for a dream, before you even knew it was real?",
    "gap": 0.25,
    "fx": [
     {
@@ -67,13 +67,13 @@
    "who": "narrator",
    "scene": "church",
    "ambience": "night",
-   "text": "One night, he sleeps in an old ruined church, where a tree grows right through the roof."
+   "text": "One night, he beds down in an old ruined church, where a tree grows straight through the roof."
   },
   {
    "who": "narrator",
    "scene": "dream",
    "ambience": "night",
-   "text": "And he has the same dream again. A child leads him to the pyramids of Egypt, and tells him a treasure is waiting there.",
+   "text": "And the dream returns: a child leads him to the pyramids of Egypt, promising a hidden treasure waits there.",
    "sfx": [
     {
      "on": "dream",
@@ -89,7 +89,7 @@
    "who": "narrator",
    "scene": "king",
    "ambience": "town",
-   "text": "Then, a mysterious old king tells him that everyone has a Personal Legend, a dream they are meant to follow.",
+   "text": "Then a mysterious old king tells him that everyone carries a Personal Legend, a dream worth following.",
    "sfx": [
     {
      "on": "Personal",
@@ -116,7 +116,7 @@
   },
   {
    "who": "baba",
-   "text": "A stranger tells him to sell his sheep, and he just does it? That's a scam, beta.",
+   "text": "He meets one stranger, and sells his whole flock because of it? That's a scam, beta.",
    "fx": [
     {
      "on": "scam",
@@ -129,7 +129,7 @@
   },
   {
    "who": "noor",
-   "text": "Or it's the start of the best adventure ever!",
+   "text": "Or it's the start of the greatest adventure of his life!",
    "fx": [
     {
      "on": "adventure",
@@ -142,7 +142,7 @@
   },
   {
    "who": "baba",
-   "text": "Next time, Tangier. I have a bad feeling about this.",
+   "text": "Next stop, Tangier. I already have a bad feeling about this.",
    "fx": [
     {
      "on": "bad",
