@@ -11,7 +11,10 @@
       "Bash(cp -r 'C:\\\\Users\\\\memak\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-memak-Downloads-ATTOCK-OFFICE-WORK-DOWNLOADS-book-club-studio\\\\8c1284fd-ef7d-4845-a1fa-64064cd32f79\\\\scratchpad\\\\youtube-agent-skill\\\\skills/yt-*' 'C:\\\\Users\\\\memak\\\\Downloads\\\\ATTOCK-OFFICE-WORK-DOWNLOADS\\\\book-club-studio\\\\.claude\\\\skills/')",
       "Bash(mkdir -p ~/.claude/youtube)",
       "Read(//c/Users/memak/.claude/youtube/**)",
-      "Bash(python .claude/skills/yt-script/hookscore.py --hook \"A stranger offers to help him in the market. Baba has a bad feeling about this.\")"
+      "Bash(python .claude/skills/yt-script/hookscore.py --hook \"A stranger offers to help him in the market. Baba has a bad feeling about this.\")",
+      "Bash(git branch *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }
