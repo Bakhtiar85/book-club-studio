@@ -26,7 +26,7 @@ const Books: React.FC<{ x: number; y: number; w: number; seed: number }> = ({ x,
   return <>{out}</>;
 };
 
-const Shelf: React.FC<{ x: number; w: number; seed: number }> = ({ x, w, seed }) => (
+export const Shelf: React.FC<{ x: number; w: number; seed: number }> = ({ x, w, seed }) => (
   <g>
     <rect x={x} y="120" width={w} height="1150" fill="#5E3A24" stroke={INK} strokeWidth={SW} />
     {[0, 1, 2, 3, 4, 5].map((r) => (
